@@ -1,6 +1,8 @@
-# Bugs samples
+# Bug samples
 ----------------------------------------------------------------
+
 Below are some Bug samples that I wrote from my experience.
+
 --------------------------------------------------------------
 ## The translation of the text is not completed
 ------------------------------------------------------------
